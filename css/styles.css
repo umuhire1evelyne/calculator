@@ -14,8 +14,7 @@ input[type="button"]
 }
 input[type="text"]
 {
-    background-color:black;
-    color: antiquewhite;
+    background-color: grey;
     border: solid black 1px;
     width: 100%;
 }
