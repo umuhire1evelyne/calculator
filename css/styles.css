@@ -5,11 +5,17 @@ width: 210px;
 color: black;
 border: solid black 1px; 
 }
-input[type=button]
+input[type="button"]
 {
     background-color:black;
     color: antiquewhite;
     border: solid black 1px;
-    width: 100px;
-
+    width: 100%;
+}
+input[type="text"]
+{
+    background-color:black;
+    color: antiquewhite;
+    border: solid black 1px;
+    width: 100%;
 }
